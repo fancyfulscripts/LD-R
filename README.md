@@ -5,4 +5,4 @@ HTML5 JavaScript
 
 Use ldr-ofer-michael Font : https://uxuihero.com/love-death-robots-free-fan-iconfont/
 
-![capScreen](https://github.com/fancyfulscript/LD+R/blob/main/ldr-capscreen.png?raw=true)
+![capScreen](https://raw.githubusercontent.com/fancyfulscripts/LD-R/main/ldr-capscreen.png)
